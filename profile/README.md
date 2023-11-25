@@ -1,6 +1,6 @@
 # OurHobbyDevelopment -우리들의 취미는 개발!
 
-**To love what you do and feel that it matters. How could anything be more fun?** - Katharine Graham
+**To love what you do and feel that it matters how could anything be more fun?** - Katharine Graham
 
 자신의 일을 사랑하는 법은 결코 쉽지 않습니다. 좋든 싫든 마주해야하며, 거듭되는 반복작업과 고난을 겪다보면 참 짜증나는 일들도 많고 하기도 싫겠지만 어떻게든 성과를 내야하는 것이 일이지요.   
 하지만 개발은 일로 다루더라도 사랑해줄 수 있다고 생각합니다. 개발자는 문제를 해결해나가며 성장해가고, 또 큰 희열을 맛볼 수 있는 특이한 직업이기 때문입니다.    
