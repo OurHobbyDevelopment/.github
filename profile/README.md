@@ -10,8 +10,19 @@
 
 **특이한 개발자** 가 저희 팀원의 주 특징입니다. 다루려는 분야도 넓고 또 멈추려 들지 않습니다.
 
-- [황우석](https://github.com/diaa-woo) : low-level, high-level단을 오가며 작업하는 특이한 개발자입니다. 문제가 안풀리면 그날 잠도 못 잘 정도로 집착하며, 꽤 집요합니다 ㅋㅋ;
+- [황우석](https://github.com/diaa-woo) : low-level, high-level단을 오가며 작업하는 특이한 개발자입니다. 문제가 안풀리면 그날 잠도 못 잘 정도로 집착하며, 꽤 집요합니다 ㅋㅋ; g
 - [윤종혁](https://github.com/YJH2848) : OpenCV와 Web, 심지어 임베디드단도 작업하는 특이한 개발자입니다.
+
+## 진행중인 프로젝트
+
+- geunbuntu-manager
+  - 소개: 우분투 및 리눅스의 기분 기능을 다루는데 도움을 주는 GUI 매니저먼트
+  - 진행자: [황우석](https://github.com/diaa-woo)
+  - 기술스택: C, C++
+- INFO.GG
+  - 소개: OP.GG와 유사한 발로란트 매니저
+  - 진행자: [윤종혁](https://github.com/YJH2848)
+  - 기술스택: Typescript, Next.js, Node.js
 
 ## Contact us!
 dev.dntjr0501@gmail.com
