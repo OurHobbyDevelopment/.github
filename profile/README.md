@@ -20,7 +20,7 @@
   - 진행자: [황우석](https://github.com/diaa-woo)
   - 기술스택: C, C++
 - INFO.GG
-  - 소개: OP.GG와 유사한 발로란트 매니저 (웹 개발 잘하는 분들 내 코드 훈수좀)
+  - 소개: OP.GG와 유사한 발로란트 매니저 
   - 진행자: [윤종혁](https://github.com/YJH2848)
   - 기술스택: Typescript, Next.js, Node.js
 
